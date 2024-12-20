@@ -66,3 +66,6 @@ Arguments:
 
 ## Model visualizer
 [model visualizer](model_visualizer.png)
+
+# VIDEO DEMO
+https://www.youtube.com/watch?v=ru54YEz4bBo
